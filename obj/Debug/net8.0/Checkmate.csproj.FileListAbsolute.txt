@@ -1,0 +1,14 @@
+C:\Users\pitra\Desktop\Coding\Checkmate\bin\Debug\net8.0\Checkmate.exe
+C:\Users\pitra\Desktop\Coding\Checkmate\bin\Debug\net8.0\Checkmate.deps.json
+C:\Users\pitra\Desktop\Coding\Checkmate\bin\Debug\net8.0\Checkmate.runtimeconfig.json
+C:\Users\pitra\Desktop\Coding\Checkmate\bin\Debug\net8.0\Checkmate.dll
+C:\Users\pitra\Desktop\Coding\Checkmate\bin\Debug\net8.0\Checkmate.pdb
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.AssemblyInfoInputs.cache
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.AssemblyInfo.cs
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.csproj.CoreCompileInputs.cache
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.dll
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\refint\Checkmate.dll
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.pdb
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\Checkmate.genruntimeconfig.cache
+C:\Users\pitra\Desktop\Coding\Checkmate\obj\Debug\net8.0\ref\Checkmate.dll
